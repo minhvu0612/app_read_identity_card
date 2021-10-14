@@ -5,9 +5,7 @@
 
   +, user cho ảnh/thẻ chứng minh nhân nhân/căn cức công dân vào camera để quét.
   
-  +, sau khi quét camera sẽ gửi dữ liệu ảnh đã đọc được đến ứng dụng, sau khi xử lý ứng dụng sẽ trích
-  
-     xuất các thông tin về user và gửi về hệ thống.
+  +, sau khi quét camera sẽ gửi dữ liệu ảnh đã đọc được đến ứng dụng, sau khi xử lý ứng dụng sẽ trích xuất các thông tin về user và gửi về hệ thống.
   
   +, hệ thống có nhiệm vụ lưu trữ thông tin về người dùng và tra về thông tin của người dùng đó khi truy vấn.
   
