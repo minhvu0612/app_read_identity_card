@@ -9,5 +9,7 @@
 # tech using
 
   +, Frontend:  ReactJS
+  
   +, Backend:   Django, Python
+  
   +, Algorithm: KNN, Flood-Fill, CNN
